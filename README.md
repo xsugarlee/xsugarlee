@@ -1,9 +1,5 @@
 ## 1. 个人简介
 
-<img width="600" height="450" alt="20260714-105329" src="https://github.com/user-attachments/assets/364b626e-3e9f-480c-9dc5-b7eb419ccbd4" />
-
-我叫**刺**。
-
 欢迎访问我的[技术博客](http://xsugarlee.github.io/)（佛系更新）.
 
 一名设计师，对``设计``、``编码``和``音乐``充满热爱，并将这些兴趣融入工作中。我*追求创新和独特性*，在每个项目中展现个人风格和设计理念。除了工作，我喜欢**阅读**和品味**美食**，将其视为*放松心灵、开阔视野*的方式。我不断提升设计技能，乐于分享知识和经验，期待与志同道合的人们共同探索创意的无限可能性。
@@ -22,8 +18,6 @@ Email:
 
 
 ## 1. Personal Introduction
-
-My name is **Ci**.
 
 Welcome to my [Tech Blog](http://xsugarlee.github.io/) (Updated infrequently).
 
